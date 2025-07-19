@@ -67,6 +67,11 @@ body {
   font-size: 1.2rem;
   letter-spacing: 0;
 }
+.logo-img {
+  height: 28px;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
 
 /* Sidebar Menu */
 .sidebar-menu {
@@ -103,6 +108,12 @@ body {
   background: transparent;
   color: #635fc7;
   border: 1px solid #635fc7;
+}
+.icon-board {
+  height: 18px;
+  width: 18px;
+  margin-right: 0.75rem;
+  vertical-align: middle;
 }
 
 /* Main Board */
