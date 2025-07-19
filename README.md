@@ -29,13 +29,13 @@ The goal is to demonstrate layout mastery, styling precision, and attention to r
 ---
 
 ## 📁 Folder Structure
-/
-├── index.html # Main HTML structure
-├── style.css # Custom CSS styles
+PHIBOT25159_PTO2503_A_Phillip-Botha_JSL01/
+├── index.html            # Main HTML structure
+├── style.css             # Custom CSS styles
 ├── assets/
-│ └── favicon.ico # (Optional) Browser favicon
-│ └── kanban-preview.png # UI screenshot
-├── README.md # This file
+│   ├── favicon.ico       # (Optional) Browser favicon
+│   └── kanban-preview.png # UI screenshot
+└── README.md             # This file
 
 
 ---
